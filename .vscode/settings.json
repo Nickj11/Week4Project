@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "Week4Day4",
+            "connectString": "postgres://ftpirixz:dPQGoX7eOtxFFH9mlnjKm48v9O7v-5Uk@snuffleupagus.db.elephantsql.com/ftpirixz"
+        }
+    ]
+}
